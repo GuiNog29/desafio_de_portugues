@@ -2,7 +2,7 @@
 
 ## Exercício para treino
 
-No exercício o usuário digitará uma palavra ou frase e o programa irá mostrar:
+No exercício o usuário digitará uma palavra ou frase e o programa ...
 
 Mostrará as consoantes presentes na frase ou palavra;
 
